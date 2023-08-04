@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+
+# Build files
+build/
+dist/
+*.log
+*.lock
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# User-specific files
+.DS_Store
+.env.local
+
+# Dependency directories
+.npm/
+.yarn/
